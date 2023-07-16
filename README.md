@@ -1,5 +1,4 @@
 # solidityLottery
-lottery code in solidity written by diwakar
 
 this contract is written by me .
 In this contract only user can generate random number and find winner 
